@@ -1,24 +1,22 @@
-# Hey There!
 
-## About
-```javascript
-const omer = {
-    degree: "Electrical-Electronics Engineering",
-    code: ["C", "Javascript", "Python"],
-    technologies: {
-        autonomous: {
-            py: ["ROS", "Gazebo", "OpenCV"],
-        },
-        Embedded: {
-            c: ["PIC", "Arduino", "STM32"]
-        },
-        devOps: ["Docker🐳", "Github", "Terminal", "Linux"],
-        misc: ["Proteus", "MPLAB X", "Ubuntu", "CTF"]
-    },
-    Languages: ["Turkish", "English", "Arabic"]
-    currentFocus: "Motion Planning in Self-driving cars"
-};
-```
+# Hello there!
+
+My name is Omar and I'm an Autonomous Driving Software Engineer Intern at [ADASTEC](https://www.adastec.com/) .
+
+- 🔭 I’m currently working on **planning/control applied to vehicles in transportation.**
+
+- 🌱 I’m currently learning **about navigation and obstacle avoidance.**
+
+
+## 🔧 Technologies & Tools
+
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+ 
+## Github Stats
+
+![bruno's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunoeducsantos&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunoeducsantos&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
 
 
 
